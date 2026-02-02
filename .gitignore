@@ -1,0 +1,24 @@
+# =========================
+# Visual Studio / WinForms
+# =========================
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+
+# Build outputs
+bin/
+obj/
+
+# NuGet (packages folder should not be committed)
+packages/
+
+# If you ever add these:
+TestResults/
+*.bak
+*.tmp
+
+# OS junk
+.DS_Store
+Thumbs.db
